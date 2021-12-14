@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  ibm-cp4d-watson-machine-learning:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-14T11:26:36.960945-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 84b19cb6efa0b0a86e960ba63d67884b3fe871632bbd2d27a2bd1932dd59981d
+    name: ibm-cp4d-watson-machine-learning
+    type: application
+    urls:
+    - https://nd-csm.github.io/cpd-gitops/ibm-cp4d-watson-machine-learning-0.1.0.tgz
+    version: 0.1.0
+  ibm-cp4d-watson-studio-instance:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-14T11:26:36.961802-05:00"
+    description: A Helm chart for Kubernetes
+    digest: af11a2f1c34fe1847ad676b96076f1aa14670a66d6a98327420b83c8563a9eb2
+    name: ibm-cp4d-watson-studio-instance
+    type: application
+    urls:
+    - https://nd-csm.github.io/cpd-gitops/ibm-cp4d-watson-studio-instance-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-14T11:26:36.958753-05:00"
